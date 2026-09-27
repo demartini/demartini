@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/demartini/demartini/blob/master/code.gif" alt="Coding animation">
+  <img src="https://github.com/demartini/demartini/blob/master/.github/media/code.gif" alt="Coding animation">
 </p>
 
 <p align="center">
