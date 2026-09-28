@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=".github/media/code.gif?raw=true" alt="Coding animation">
+  <img src=".github/media/code.webp?raw=true" alt="Coding Workspace">
 </p>
 
 <p align="center">
