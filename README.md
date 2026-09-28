@@ -1,21 +1,10 @@
 <p align="center">
-  <img src="https://github.com/demartini/demartini/blob/master/code.gif">
+  <img src=".github/media/code.gif?raw=true" alt="Coding animation">
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/iolardemartini" target="_blank">
-    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C" alt="Twitter"/>
-  </a>
-  <a href="https://www.linkedin.com/in/iolardemartini" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
-  </a>
-  <a href="https://instagram.com/iolarjr" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/>
-  </a>
-  <a href="https://medium.com/@Demartini" target="_blank">
-    <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=071A2C" alt="Medium"/>
-  </a>
-  <a href="https://www.facebook.com/iolardemartini" target="_blank">
-    <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=071A2C" alt="Facebook"/>
-  </a>
+  <a href="https://linkedin.com/in/iolardemartini"><img src="https://img.shields.io/badge/linkedin-profile?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSIjZmZmZmZmIj48dGl0bGU%2BTGlua2VkSW48L3RpdGxlPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOC4zNTFWOUgxMi43NjV2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNjLTEuMTQ0IDAtMi4wNjMtLjkyNi0yLjA2My0yLjA2NSAwLTEuMTM4LjkyLTIuMDYzIDIuMDYzLTIuMDYzIDEuMTQgMCAyLjA2NC45MjUgMi4wNjQgMi4wNjMgMCAxLjEzOS0uOTI1IDIuMDY1LTIuMDY0IDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOUg3LjExOXYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4%3D&logoSize=auto&color=363a4f" alt="LinkedIn"></a>
+  <a href="https://x.com/iolardemartini"><img src="https://img.shields.io/badge/x-profile?style=for-the-badge&logo=x&logoColor=ffffff&logoSize=auto&color=363a4f" alt="X"></a>
+  <a href="https://facebook.com/iolardemartini"><img src="https://img.shields.io/badge/facebook-profile?style=for-the-badge&logo=facebook&logoColor=ffffff&logoSize=auto&color=363a4f" alt="Facebook"></a>
+  <a href="https://instagram.com/iolarjr"><img src="https://img.shields.io/badge/instagram-profile?style=for-the-badge&logo=instagram&logoColor=ffffff&logoSize=auto&color=363a4f" alt="Instagram"></a>
 </p>
